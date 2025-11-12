@@ -1,3 +1,5 @@
+From https://hackernoon.com/solve-concurrency-challenges-with-springs-transactional-annotation
+
 # Using @Transactional Like a Pro
 
 A **training demo project** designed to showcase how the **@Transactional** annotation operates in a Spring Boot application. By exploring this project, you can learn about common mistakes and their fixes when developing a **Java/Spring Data JPA/PostgreSQL** application that relies on database transactions.
